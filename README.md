@@ -9,9 +9,6 @@ In this exercise, you'll create your own pixel art maker which will allow a user
 * Click on individual grid pixels to fill the selected color.
 * To change the grid, resubmit with desired inputs.
 
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
 ## Authors
 * **Udacity** - Initial work
